@@ -41,9 +41,9 @@ console.log("Hello World!")
 ```
 
 ## git and github 
-![Github icon cat](./images/githublogo.jpg)
+![Github icon cat](./images/githublogo.jpg) .... 
 
-- what is Git and Github? 
+- what is Git and Github?
     - it is a source control management tool (Version Control System)
     - edit your code, then save again. 
     - every time you save, it will create a new version (commit)
