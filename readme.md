@@ -41,7 +41,7 @@ console.log("Hello World!")
 ```
 
 ## git and github 
-![Github icon cat](./images/githublogo.jpg) .... 
+![Github icon cat](./images/githublogo.jpg)
 
 - what is Git and Github?
     - it is a source control management tool (Version Control System)
