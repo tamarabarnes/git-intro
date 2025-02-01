@@ -53,3 +53,7 @@ console.log("Hello World!")
     - track changes in the code (it can be anything, even if you wanted to write a poem or novel)
     - move forwaerds or backwards in your versions of code easily 
 
+## github steps 
+- create a remote repo
+- link it with the ocal repo 
+- push the latest commits 
