@@ -51,9 +51,12 @@ console.log("Hello World!")
     - this is useful when something isn't working you can go back to the latest save/version and see if something went wrong 
     - remote repository
     - track changes in the code (it can be anything, even if you wanted to write a poem or novel)
-    - move forwaerds or backwards in your versions of code easily 
+    - move forwaerds or backwards in your versions of code easily
+    - repository refers to all the changes we can make and that we can track all the snapshoot of changes 
 
 ## github steps 
 - create a remote repo
 - link it with the ocal repo 
 - push the latest commits 
+- u flag stands for --set-upstream 
+
